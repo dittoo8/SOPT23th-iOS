@@ -7,4 +7,4 @@
 	3. homework_1st_psh : 뷰들의 데이터 주고받기, autolayout 연습
 	4. homework_2nd_psh : stackView, autolayout 연습을 위해 만든 계산기 뷰
 	5. homework_6th_psh : 서버통신없이 실제 인스타그램의 뷰 및 기능 연습
-  6. iOS-NetworkSeminar : 서버통신을 통해 로그인, 회원가입, 게시판, 글작성 구현연습 (현재 서버 닫음)
+	6. iOS-NetworkSeminar : 서버통신을 통해 로그인, 회원가입, 게시판, 글작성 구현연습 (현재 서버 닫음)
