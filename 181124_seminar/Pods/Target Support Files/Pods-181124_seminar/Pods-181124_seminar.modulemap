@@ -1,0 +1,6 @@
+framework module Pods_181124_seminar {
+  umbrella header "Pods-181124_seminar-umbrella.h"
+
+  export *
+  module * { export * }
+}
